@@ -1,0 +1,28 @@
+/*
+ *Name: Akshay Banda
+ *UnityID: 200277486 
+ *Date: 9/29/2018
+ *Assignment: Webpages IA5
+ *Description: Independent Assignment 5 (HTML and Styling)
+ */
+ 
+body {
+    Background-color:#00CCCC;
+}
+
+#photo-aspects {
+	 max-width: 200px ;
+	 max-height: 250px ;
+	 border-style: outset;
+	 border-color: #008000;
+     border-width: 2px;
+	 
+	
+    
+	
+    }
+	
+.table-border {
+    border: 1px solid #CCCCCC;
+}
+
